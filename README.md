@@ -46,11 +46,11 @@
 
 ### Account settings:
   - Page, on which user can view and change his account information:
-    1. Avatar ?
-    1. Username
-    1. Login __*(only view)*__
-    1. Password
-    1. Roles __*(only view)*__
+    2. Avatar ?
+    2. Username
+    2. Login __*(only view)*__
+    2. Password
+    2. Roles __*(only view)*__
 
 ### Private Messages page: ???
   - Dialog
@@ -60,10 +60,10 @@
 ### Personal gallery:
   - List of added cards
   - Card consists of:
-    1. Image
-    1. Name
-    1. Description
-    1. Date and time adding
+    3. Image
+    3. Name
+    3. Description
+    3. Date and time adding
   - Can add card
   - Can download image
   
