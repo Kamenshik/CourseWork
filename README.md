@@ -45,7 +45,7 @@
   - Only authorized users can write messages
 
 ### Account settings:
-  2. Page, on which user can view and change his account information:
+2. Page, on which user can view and change his account information:
     2. Avatar ?
     2. Username
     2. Login __*(only view)*__
