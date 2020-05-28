@@ -59,7 +59,7 @@
 
 ### Personal gallery:
 - List of added cards
-Card consists of:
+- Card consists of:
 1. Image
 1. Name
 1. Description
