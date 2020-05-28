@@ -78,4 +78,4 @@ Card consists of:
   - Can delete roles ?
 
 ### StayOut Spawn Calculator page: ?
-  A script that calculates the approximate time of appearance of some in-game objects of the StayOut project, namely an artifact
+  A script that calculates the approximate time of appearance of some in-game objects of the StayOut project, namely the artifact Explorer, Vesuvius and NPС Supplier
