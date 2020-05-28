@@ -33,24 +33,24 @@
   - Mail sending for Nodemailer (https://nodemailer.com/about/)
 
 ### Discussions (chat): ?
-  - List of chats
-  - Every discussion consists of history messages
-  * Every messages consists of:
-    * Date and time message's
-    * Author (Username, Avatar)
-    * Text
-    * Document ?
-    * Photo ?
-    * Likes ?
-  - Only authorized users can write messages
+- List of chats
+- Every discussion consists of history messages
+- Every messages consists of:
+1. Date and time message's
+1. Author (Username, Avatar)
+1. Text
+1. Document ?
+1. Photo ?
+1. Likes ?
+- Only authorized users can write messages
 
 ### Account settings:
-* Page, on which user can view and change his account information:
-    * Avatar ?
-    * Username
-    * Login __*(only view)*__
-    * Password
-    * Roles __*(only view)*__
+Page, on which user can view and change his account information:
+2. Avatar ?
+2. Username
+2. Login __*(only view)*__
+2. Password
+2. Roles __*(only view)*__
 
 ### Private Messages page: ???
   - Dialog
@@ -58,14 +58,14 @@
   - Delete messages ?
 
 ### Personal gallery:
-  - List of added cards
-  * Card consists of:
-    * Image
-    * Name
-    * Description
-    * Date and time adding
-  - Can add card
-  - Can download image
+- List of added cards
+Card consists of:
+3. Image
+3. Name
+3. Description
+3. Date and time adding
+3. Can add card
+3. Can download image
   
 ### Rules Community page:
   Article of rules Community and Site in all
