@@ -44,7 +44,7 @@
 1. Likes ?
 - Only authorized users can write messages
 
-### Account settings:
+### Account info:
 - Page, on which user can view and change his account information:
 1. Avatar ?
 1. Username
