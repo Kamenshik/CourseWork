@@ -64,8 +64,8 @@
 1. Name
 1. Description
 1. Date and time adding
-1. Can add card
-1. Can download image
+- Can add card
+- Can download image
   
 ### Rules Community page:
   Article of rules Community and Site in all
