@@ -72,7 +72,7 @@
 
 ### Users page: ?
   - Page, where admin can view all users-accounts and change their information (username, avatar, roles and so on)
-  - Can not be viewed by unauthorized users and users without role "Admin"
+  - Can not be viewed by unauthorized users and users without role "Admin" ?
   - Can create roles ?
   - Can change roles ?
   - Can delete roles ?
