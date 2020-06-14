@@ -1,0 +1,108 @@
+body{
+    background-image: url('../images/background.png');
+    background-size: cover;
+    color: limegreen;
+    min-height: 700px;
+}
+
+#intro-page-container{
+    position: relative;
+    width: 80%;
+    min-width: 800px;
+    min-height: 600px;
+    margin: 0 auto;
+}
+
+#intro-page-VSL{
+    display: block;
+    position: absolute;
+    background-image: url('../images/vsl.png');
+    background-size: cover;
+    width: 330px;
+    height: 330px;
+    margin-bottom: 50px;
+    top: 3%;
+    left: 39%;
+    right: 39%;
+    bottom: 35%;
+}
+
+#intro-page-WoT{
+    display: block;
+    position: absolute;
+    background-image: url('../images/wot.png');
+    background-size: cover;
+    width: 350px;
+    height: 350px;
+    margin-bottom: 50px;
+    top: 40%;
+    left: 12%;
+    right: 65%;
+    bottom: -7%;
+}
+
+#intro-page-WoT-text{
+    display: block;
+    position: absolute;
+    background-image: url('../images/wot_text.png');
+    background-size: cover;
+    width: 280px;
+    height: 51px;
+    top: 103%;
+    left: 13.7%;
+    right: 67.5%;
+    bottom: -10%;
+}
+
+#intro-page-VK{
+    display: block;
+    position: absolute;
+    background-image: url('../images/vk.png');
+    background-size: cover;
+    width: 350px;
+    height: 350px;
+    top: 40%;
+    left: 65%;
+    right: 15%;
+    bottom: 2%;
+}
+
+#intro-page-VK-text{
+    display: block;
+    position: absolute;
+    background-image: url('../images/vk_text.png');
+    background-size: cover;
+    width: 290px;
+    height: 45px;
+    top: 103%;
+    left: 67.5%;
+    right: 14%;
+    bottom: -10%;
+}
+
+#intro-page-SO{
+    display: block;
+    position: absolute;
+    background-image: url('../images/so.png');
+    background-size: cover;
+    width: 380px;
+    height: 450px;
+    margin-bottom: 50px;
+    top: 53%;
+    left: 38.5%;
+    right: 35%;
+    bottom: 2%;
+}
+
+#intro-page-SO-text{
+    display: block;
+    position: absolute;
+    background-image: url('../images/so_text.png');
+    background-size: cover;
+    width: 180px;
+    height: 58px;
+    top: 130%;
+    left: 43.3%;
+    right: 35%;
+    bottom: 2%;
+}
