@@ -3,6 +3,7 @@ module.exports = (seq) => {
     const UserRoles = require('../models/userroles')(seq)
     const Role = require('../models/role')(seq)
     const Account = require('../models/account')(seq)
+    const NewsPost = require('../models/newspost')(seq)
 
     Role.belongsToMany(User, { through: UserRoles });
     User.belongsToMany(Role, { through: UserRoles });

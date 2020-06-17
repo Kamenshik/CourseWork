@@ -1,0 +1,6 @@
+body{
+    background-image: url('../images/background.png');
+    background-size: cover;
+    color: limegreen;
+    min-height: 700px;
+}
